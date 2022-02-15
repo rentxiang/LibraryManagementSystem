@@ -1,0 +1,12 @@
+﻿MaterialID,MaterialName,MaterialStatus,Price,Floor,Section,MaterialType
+BK_001,THE INDIAN DIASPORA: Historical Context,Available,15,1,Literature,Book
+BK_002,CONTEMPORARY CULTURAL THEORY,Available,12,1,Literature,Book
+PR_001,HP DeskJet 2755e,Available,10,2,Print,Printer
+BK_003,MODERN POLITICAL THOUGHT,Available,10,2,Philosophy,Book
+BK_004,THE BASICS OF SOCIAL RESEARCH ,Available,11,2,Research Methods,Book
+BK_005,DOING SOCIAL RESEARCH ,Available,14,2,Research Methods,Book
+PR_002,Cannon 3755,Available,9,2,Print,Printer
+PR_003,HP LaserJet 5521e,Available,9,2,Print,Printer
+BK_006,POPULATION AND ENVIRONMENT,Available,8,1,Demography,Book
+BK_007,MIGRATION AND DEVELOPMENT ,Available,8,1,Demography,Book
+BK_008,ENVIRONMENT AND ORNITHOLOGY IN INDIA,Available,9,2,Environment,Book

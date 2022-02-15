@@ -1,0 +1,11 @@
+﻿PersonID,FirstName,LastName,Address,City,State,ZipCode,Date_Of_Birth,Phone,Email,PersonType
+P_001,Aaron,Miller,38 South Huntington,Boston,MA,2130,2/24/1995,8579096781,am@gmail.com,Author
+P_002,Pierre,Dean,881 South Huntington,Boston,MA,2130,8/8/1994,6179984532,pd@gmail.com,Member
+P_003,Karen,Kennedy,42 Cityview Apartments,Cambridge,MA,2139,4/25/1997,8574009837,kk@gmail.com,Member
+P_004,Thomas,Reed,1185 Massachusetts Ave,Lowell,MA,2114,9/6/1996,5308769930,tr@gmail.com,Member
+P_005,John,Rogers,13th Street 47 W,Rochester,NY,14602,5/12/1963,8576008594,jr@gmail.com,Author
+P_006,Katie,Doyle,128 Main Street,Austin,TX,77449,8/23/1960,6178694738,kd@gmail.com,Author
+P_007,Sarah,Connor,20 Cooper Square,Syracuse,NY,13201,2/5/1992,5308957382,sc@gmail.com,Member
+P_008,Adam,Mayfield,1368 Broadway Rd,Seattle,WA,99301,11/7/1997,8578009864,adm@gmail.com,Member
+P_009,Daniel,Peters,58th Avenue,Dallas,TX,79936,1/19/1995,6173264738,dp@gmail.com,Member
+P_010,Peter,Packman,221 Baker Street,NYC,NY,10001,9/23/1975,7309857291,pp@gmail.com,Member

@@ -1,0 +1,6 @@
+﻿CardID,Issued Date,Expiry Date,RenewDate,Status,Librarian ID
+C_001,4/24/2021,4/23/2022,,Active,P_002
+C_002,11/26/2021,11/25/2022,,Active,P_002
+C_003,12/2/2021,12/1/2022,,Active,P_002
+C_004,1/19/2020,1/18/2021,,Inactive,P_008
+C_005,8/10/2021,8/9/2022,,Active,P_008

@@ -1,0 +1,11 @@
+﻿RoomNo,Capacity,Floor,RoomType,RoomStatus
+RM_001,1,1,Private,Booked
+RM_002,1,1,Private,Available
+RM_003,1,1,Private,Booked
+RM_004,1,1,Private,Available
+RM_005,4,2,Group,Booked
+RM_006,4,2,Group,Available
+RM_007,4,2,Group,Booked
+RM_008,6,2,Group,Available
+RM_009,6,2,Group,Booked
+RM_010,6,2,Group,Available

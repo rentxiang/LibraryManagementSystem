@@ -1,0 +1,8 @@
+﻿AccountID,Username,Password ,EncryptedPassword,User Role,Account Status
+AC_001,Pierre,Pierre,,Librarian,Active
+AC_002,Karen,Karen,,Reader,Active
+AC_003,Thomas,Thomas,,Reader,Active
+AC_004,Sarah,Sarah,,Reader,Active
+AC_005,Adam,Adam,,Librarian,Active
+AC_006,Daniel,Daniel,,Reader,Active
+AC_007,Peter,Peter,,Reader,Active

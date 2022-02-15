@@ -1,0 +1,11 @@
+﻿PersonID,PrinterID,DocumentName,DocumentType,No_Of_Pages,PrintTime,PrintDate
+P_001,PR_001,Assignment.pdf,PDF,12,11:44:21,2/14/2021
+P_001,PR_002,Air_Ticket.pdf,PDF,5,18:03:22,11/11/2021
+P_002,PR_001,PSA_Notes.pdf,PDF,20,14:20:49,6/19/2021
+P_004,PR_003,Bill_Statement.doc,DOC ,25,20:19:23,4/30/2021
+P_006,PR_001,Sample.doc,DOC,2,1:20:22,4/14/2021
+P_006,PR_002,Resume.PDF,PDF,1,9:49:55,9/17/2021
+P_008,PR_003,Travel_ticket.pdf,PDF,1,16:43:09,11/1/2021
+P_009,PR_002,ReviewNotes.doc,DOC,9,12:12:11,7/27/2021
+P_010,PR_002,TestReports.doc,DOC,17,15:30:00,6/3/2021
+P_010,PR_001,Bank_Statement.pdf,PDF,20,19:17:21,2/2/2021

@@ -1,0 +1,21 @@
+﻿MaterialID,MaterialName,MaterialStatus,Price,Floor,Section,MaterialType
+BK_001,THE INDIAN DIASPORA: Historical Context,Available,15,1,Literature,Book
+BK_002,CONTEMPORARY CULTURAL THEORY,Available,12,1,Literature,Book
+PR_001,HP DeskJet 2755e,Available,10,2,Print,Printer
+BK_003,MODERN POLITICAL THOUGHT,Available,10,2,Philosophy,Book
+BK_004,THE BASICS OF SOCIAL RESEARCH ,Available,11,2,Research Methods,Book
+BK_005,DOING SOCIAL RESEARCH ,Available,14,2,Research Methods,Book
+PR_002,Cannon 3755,Available,9,2,Print,Printer
+PR_003,HP LaserJet 5521e,Available,9,2,Print,Printer
+BK_006,POPULATION AND ENVIRONMENT,Available,8,1,Demography,Book
+BK_007,MIGRATION AND DEVELOPMENT ,Available,8,1,Demography,Book
+BK_008,ENVIRONMENT AND ORNITHOLOGY IN INDIA,Available,9,2,Environment,Book
+BK_009,THE SOCIOLOGY OF AGING ,Available,10,1,Ageing,Book
+BK_010,DIMENSIONS OF AGEING: Indian Studies,Available,12,1,Ageing,Book
+BK_011,CRIMINALISATION OF POLITICS: Caste,Available,10,1,Criminology,Book
+BK_012,VIOLENCE IN MEDIA AND SOCIETY: Literature,Available,12,1,Criminology,Book
+BK_013,SOCIOLOGY OF HEALTH AND MEDICINE,Available,6,2,Science,Book
+BK_014,Geographic Information Systems: Theory & Practice,Available,5,2,Science,Book
+BK_015,THE NEW MEDIA THEORY READER,Available,8,2,Mass Media,Book
+BK_016,THEATRE AND DEMOCRACY ,Available,9,1,Drama,Book
+BK_017,CONTEMPORARY INDIAN DRAMA: astride two traditions,Available,9,1,Drama,Book
